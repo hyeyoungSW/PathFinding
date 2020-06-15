@@ -1,0 +1,9 @@
+C:\Users\KimHyeYoung\Desktop\Toy1\Toy1\bin\Debug\Toy1.exe.config
+C:\Users\KimHyeYoung\Desktop\Toy1\Toy1\bin\Debug\Toy1.exe
+C:\Users\KimHyeYoung\Desktop\Toy1\Toy1\bin\Debug\Toy1.pdb
+C:\Users\KimHyeYoung\Desktop\Toy1\Toy1\obj\Debug\Toy1.csprojAssemblyReference.cache
+C:\Users\KimHyeYoung\Desktop\Toy1\Toy1\obj\Debug\Toy1.Form1.resources
+C:\Users\KimHyeYoung\Desktop\Toy1\Toy1\obj\Debug\Toy1.Properties.Resources.resources
+C:\Users\KimHyeYoung\Desktop\Toy1\Toy1\obj\Debug\Toy1.csproj.GenerateResource.cache
+C:\Users\KimHyeYoung\Desktop\Toy1\Toy1\obj\Debug\Toy1.exe
+C:\Users\KimHyeYoung\Desktop\Toy1\Toy1\obj\Debug\Toy1.pdb
